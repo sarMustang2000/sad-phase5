@@ -4,4 +4,4 @@
 
 
 ### exit -> quit the program
-### create_transport_request -> start new transport request
+### create_transfer_request -> start new transport request
